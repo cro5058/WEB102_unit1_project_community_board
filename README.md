@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Name of App Here*
+# Web Development Project 1 - Rochester, New York Park Finder
 
 Submitted by: Ryan O'Malley
 
@@ -32,9 +32,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
-
-<img src='https://imgur.com/a/zRNFnSa' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a <a href='https://imgur.com/a/zRNFnSa'>walkthrough</a> of the implementation.
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
