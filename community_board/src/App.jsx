@@ -1,3 +1,6 @@
+import './App.css';
+import Grid from './components/Grid'
+
 const App = () => {
 
   return (
@@ -7,6 +10,7 @@ const App = () => {
         Visit the links below to get information about parks
         in and around Rochester, New York!
       </h2>
+      <Grid />
     </div>
   )
 }
